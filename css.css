@@ -1,0 +1,39 @@
+#secnd button{
+    background-color: aqua;
+    color: azure;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+}
+#secnd{
+    background-color: whitesmoke;
+
+    padding: 40px;
+
+
+}
+#secnd legend{
+    font-weight: bolder;
+    text-align: center;
+    font-size: 50px;
+
+}
+#first{background-color: aqua;
+     margin-inside: 40px;
+
+    padding: 40px;text-align: center;
+    color: bisque; padding-top: 70px;
+
+
+}
+#main{box-shadow: 10PX 10PX 10PX black;
+border-radius: 20px;
+margin: 0 auto;
+    width: auto;
+}
+#first legend{font-size: 50px;
+
+}
+form{
+    width: 50%;
+}
